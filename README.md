@@ -4,7 +4,7 @@
 
 <h2>Veja os exemplos do site dentro de cada dispositivo :</h2>
 
-<img src="" />
+<img src="https://github.com/Yuripujol/Projeto-De-Responsividade-2/blob/main/Exemplos%20de%20responsividade%201.png?raw=true" />
 
 <h2>Projeto foi feito através de: </h2>
 
